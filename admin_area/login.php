@@ -22,9 +22,9 @@ include("includes/db.php");
             <button class="btn btn-lg btn-primary btn-block" type="submit" name="admin_login">
                 Log in
             </button>
-            <h4 class="forgot_password">
+<!--             <h4 class="forgot_password">
                 <a href="forgot_password.php"> Lost your password? Forgot Password</a>
-            </h4>
+            </h4> -->
         </form>
         <!--form-login ends-->
     </div>
